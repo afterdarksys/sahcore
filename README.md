@@ -4,7 +4,7 @@ SAH Core has no assigned role. This directory is the placeholder so the name is 
 
 There is no binary, no module, and no service. Do not add one until a role is assigned.
 
-**sah** means Service Automation Hum. `adssh` remains the execution shell under its development name. sahcore is not a rename of adssh.
+**sah** means Service Automation Hub. The hub encompasses the platform and the suite of utilities. `adssh` remains the execution shell under its development name. sahcore is not a rename of adssh.
 
 Suite contract: `~/development/systemapi.io/docs/sah-suite.md`.
 
